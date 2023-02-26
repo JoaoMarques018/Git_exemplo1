@@ -14,5 +14,7 @@ class MainActivity : AppCompatActivity() {
 
 
         //tests on requirement 10
+        //tests on requirement 10 v1
+        //tests on requirement 10 v2
     }
 }
