@@ -10,6 +10,6 @@ class MainActivity : AppCompatActivity() {
 
         //adicionaei o metodo A
 
-
+//adicionaei o metodo B
     }
 }
